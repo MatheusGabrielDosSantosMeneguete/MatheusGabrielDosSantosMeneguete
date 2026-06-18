@@ -6,9 +6,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGabrielDosSantosMeneguete&langs_count=8&theme=radical)
 
-<div><p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWV3cjlmeHoxMDFtZHBiZHRtNnppZTcxMnZqdzdlbDdrbGVnNGdrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LyV4cw0vDtAgc8xTHQ/giphy.gif" width="180" />
-</p></div>
+<div>
+  <p align="left">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWV3cjlmeHoxMDFtZHBiZHRtNnppZTcxMnZqdzdlbDdrbGVnNGdrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LyV4cw0vDtAgc8xTHQ/giphy.gif" width="170" />
+  </p>
+</div>
 
 <div style="display: inline_block"><br>
   <H1>Linguagens principais:</H1>
